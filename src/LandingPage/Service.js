@@ -5,10 +5,10 @@ const Service = () => {
         <div className='bgImage2'>
             <div className='container mx-auto'>
                 <div className='text-center pt-20'>
-                    <h1 className='text-5xl font-bold capitalize text-white'>Services customized to your need</h1>
+                    <h1 className='text-3xl lg:text-5xl font-bold capitalize text-white'>Services customized to your need</h1>
                     <p className='my-3 text-xl font-bold text-orange-500'>Light + Sustainability + Technology</p>
                 </div>
-                <div className='grid grid-cols-3 gap-10 pb-20 pt-14'>
+                <div className='grid lg:grid-cols-3 gap-10 pb-20 pt-14 px-2'>
                     <div className='h-[400px] backdrop-blur bg-white/20 p-5 rounded-lg shadow shadow-orange-400 flex justify-center items-center'>
                         <div className='grid grid-rows-2'>
                             <div>
