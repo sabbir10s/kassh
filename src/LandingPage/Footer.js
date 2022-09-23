@@ -37,6 +37,9 @@ const Footer = () => {
                                 </label>
                                 <textarea name="message" id="message" cols="30" rows="3" placeholder='Message' className="w-full border border-primary p-[10px] rounded-md focus:outline-orange-300"></textarea>
                             </div>
+                            <div>
+                                <input type="Submit" className='bg-orange-500 text-white p-[10px] rounded-lg cursor-pointer w-full' />
+                            </div>
                         </div>
                     </form>
                 </div>
