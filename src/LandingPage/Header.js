@@ -12,7 +12,7 @@ const Header = () => {
     return (
         <div className=' '>
             <div className='flex justify-center items-center bg-black'>
-                <div ref={ref} className="relative bg-black" style={{ width: "98vw", height: "100vh" }} >
+                <div ref={ref} className="relative bg-black" style={{ width: "100vw", height: "100vh" }} >
 
                     <SimpleImageSlider
                         bgColor='#0000'
@@ -27,13 +27,13 @@ const Header = () => {
             </div>
             <div className=' absolute top-0 flex items-center justify-cent h-[100vh] '>
                 <div className='grid lg:grid-cols-2 justify-center items-center gap-10 mx-5 '>
-                    <div className='bg-white/50 backdrop-blur h-[300px] w-[300px] md:w-full flex justify-center items-center px-5 rounded-[30px]'>
+                    <div className='bg-white/50 backdrop-blur h-[300px] w-full flex justify-center items-center px-5 rounded-[30px]'>
                         <div>
                             <h1 className='text-xl md:text-4xl font-bold'>KAASH - LIGHT ENGINEERS</h1>
                             <p className='pt-3 text-sm lg:text-lg'>Light defines spatial experience, as it falls and reflects. As design consultants, Kaash - light engineers aims to elevate this experience with sustainable and human-centric light planning.</p>
                         </div>
                     </div>
-                    <div className='flex items-center justify-center w-[300px] md:w-full'>
+                    <div className='flex items-center justify-center w-full'>
                         <div className='w-24 md:w-36 h-24 md:h-36 p-5 flex justify-center items-center rounded-full bg-white/60 shadow-md shadow-orange-400 backdrop-blur '>
                             <p className='text-center'>10+ years of <br /> lighting</p>
                         </div>
