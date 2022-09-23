@@ -3,3 +3,18 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.bgImage2 {
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgImage3 {
+  background-image: url("../images/bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgImage4 {
+  background-image: url("../images/bg3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
