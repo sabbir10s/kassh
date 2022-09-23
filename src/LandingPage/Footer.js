@@ -6,7 +6,7 @@ const Footer = () => {
         <div className='bg-[#1d1d1f] pt-10'>
             <h1 className='text-orange-500 text-center text-3xl lg:text-5xl font-bold'>Light on your mind ? </h1>
             <p className='text-center text-white pt-3'>Let's talk for a hassle free lighting design and product selection experience.</p>
-            <div className='grid lg:grid-cols-2 gap-2 my-5 py-5 px-2'>
+            <div className='grid lg:grid-cols-2 gap-2 mt-2 pb-14 px-2'>
                 <div className='flex justify-center items-center pt-10'>
                     <form>
                         <div>
