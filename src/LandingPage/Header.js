@@ -3,9 +3,9 @@ import SimpleImageSlider from "react-simple-image-slider";
 import useResizeObserver from "use-resize-observer";
 import './Header.css'
 const images = [
-    { url: "https://assets-news.housing.com/news/wp-content/uploads/2022/03/09211415/Modern-bedroom-lighting-ideas-Enhance-the-interiors-with-lights-for-your-bedroom.jpg" },
-    { url: "https://media.designcafe.com/wp-content/uploads/2020/03/21011953/living-room-lighting-ideas-for-your-home.jpg" },
-    { url: "https://charlesdavidkelley.com/wp-content/uploads/2018/05/Art_Gallery_Mockup.jpg" },
+    { url: "https://michaelhelm.com/wp-content/uploads/2017/12/Michael-Helm-lighting-desig.jpg" },
+    { url: "https://i.ibb.co/HzXkb6M/10.jpg" },
+    { url: "https://i.ibb.co/7YfxVfH/best-lights.jpg" },
 ];
 const Header = () => {
     const { ref, width = 1, height = 1 } = useResizeObserver();
