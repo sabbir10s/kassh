@@ -1,20 +1,10 @@
 .bgImage {
-  background-image: url("../images/bnr-allegiant-stadium-lighting-design.webp");
+  background-image: url("../images/hero.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .bgImage2 {
-  background-image: url("../images/bg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bgImage3 {
-  background-image: url("../images/bg2.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bgImage4 {
-  background-image: url("../images/bg3.jpg");
+  background-image: url("../images/bgImg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
